@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhavalJain1510
-- 👀 I’m interested in weird kind of stuffs.
+- 👀 I’m interested in HTML, CSS, JS, Python, C++, Java.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on codes.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me through my mail i'd i.e Jaindhaval15@gmail.com
 
 <!---
